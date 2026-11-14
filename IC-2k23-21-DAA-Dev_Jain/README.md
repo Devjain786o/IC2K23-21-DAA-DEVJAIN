@@ -1,9 +1,9 @@
-# IC-2k23-39-DAA-Hitesh_Gupta
+# IC-2k23-21-DAA-Dev_Jain
 
 Design and Analysis of Algorithms (DAA) laboratory submissions.
 
-**Student:** Hitesh Gupta
-**Roll No:** IC-2k23-39
+**Student:** Dev Jain
+**Roll No:** IC-2k23-21
 
 ## Repository Structure
 
