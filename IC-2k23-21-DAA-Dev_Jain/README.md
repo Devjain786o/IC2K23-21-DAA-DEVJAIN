@@ -8,7 +8,7 @@ Design and Analysis of Algorithms (DAA) laboratory submissions.
 ## Repository Structure
 
 ```
-IC-2k23-39-DAA-Hitesh_Gupta/
+IC-2k23-21-DAA-Dev_Jain/
 ├── Unit01-Introduction-Algorithms/
 ├── Unit02-Divide-and-Conquer/
 ├── Unit03-Greedy-Method/
